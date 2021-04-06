@@ -1,0 +1,16 @@
+{
+	"name": "Den Of Sins - Server Mod",
+	"description": "Server Mod for the Den of Sins project.",
+	"changeNote": "",
+	"author": "",
+	"authorUrl": "",
+	"versionMajor": 1,
+	"versionMinor": 0,
+	"versionBuild": 0,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "2437175164",
+	"steamVisibility": 0,
+	"folderName": "DenOfSins",
+	"revisionNumber": 279274,
+	"snapshotId": 28446
+}
